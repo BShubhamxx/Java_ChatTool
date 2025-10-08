@@ -100,9 +100,6 @@ Session End: 2025-10-07 00:48:18
 
 ## 👨‍💻 Developed By
 **Bodhane Shubham**  
- 
+
 
 ---
-
-## 🏷️ License
-This project is open-source and available under the **MIT License**.
