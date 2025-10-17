@@ -103,7 +103,7 @@ Session End: 2025-10-07 00:48:18
 
 
 ---
-**🛠️Java Socket Chat Application Architecture**  
+## 🛠️Java Socket Chat Application Architecture  
 <img width="1494" height="607" alt="Java Socket Chat Application Architecture" src="https://github.com/user-attachments/assets/f361269d-3c1e-489e-b1b9-5b4a73d7e540" />
 
 ---
